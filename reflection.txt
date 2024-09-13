@@ -1,0 +1,13 @@
+Hazel Osborne Reflection
+
+It felt good to write a code that helped someone, especially someone that I know in real life. While the computation
+is pretty simple, having an accessible converter would make her life easier.
+
+Programming by myself was definitely different but the Zy-books assignments prepared me for it.
+The code for this assignment was very short so it was intuitive to do it by myself, however, if it was a larger project,
+I can see how it would be easier to have the help of a partner.
+
+I learned how to properly implement float codes and the conversion equation for Fahrenheit and Celsius.
+
+Next time I would spend more time on the design part of the PA. This is because I ended up having to do more prep work
+in the middle of programming which was inefficient.
